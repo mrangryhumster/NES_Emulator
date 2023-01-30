@@ -1,0 +1,9 @@
+.vs/
+out/
+/src/third_party/glfw/lib
+/src/third_party/glfw3/lib
+/src/third_party/libpng/lib
+/src/third_party/zlib/lib
+/src/third_party/zlib/bin
+/src/third_party/libpng/bin
+/src/third_party/glfw3/bin
