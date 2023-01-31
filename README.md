@@ -1,7 +1,9 @@
 # NES Emulator
 'Simple' NES emulator written in C++ just for fun
 
-Some games work just fine, but some require precise ppu-cpu sync (which my emulator lacks, maybe i'll fix it someday)
+Some games work just fine, but some require precise ppu-cpu sync 
+(which my emulator lacks, maybe i'll fix it someday)
+
 
 Currently implemented mappers : 
  **000**, **001**, **002**, **007**
@@ -12,6 +14,7 @@ Currently implemented mappers :
  * Memory view for PPU and CPU bus
  * CPU state viewer with simple disassembler
  * PPU contents viewer
+ * Precise CPU cycles
 
  **Screenshots**
 ![SCREENSHOT_0](/images/full_scr.png)
